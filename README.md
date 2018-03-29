@@ -1,1 +1,1 @@
-# firebaseHomework
+This is a train schedule app that uses firebase to host arrival and departure data. This data is retrieved and manipulated with Moment.js. Up-to-date information is provided about the various trains' arrival time and how many minutes remain until the trains arrive at the station.
